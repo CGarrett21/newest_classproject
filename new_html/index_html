@@ -5,7 +5,7 @@
     <title> Intro to HTML</title>  
     <style>
        body {
-        background-color: chocolate
+        background-color: chocolate;
        }
        a {
         color: brown;
@@ -20,10 +20,10 @@
 
 
 </body>
-<h1>Intro to HTML</h1>
-<h2>Random Info About Html</h2>
-<p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ad enim aliquam quos vitae ullam hic praesentium. Error autem ab sunt quasi aperiam deserunt optio nam modi in? Maxime, hic iure. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat, quisquam itaque! Aliquid soluta veritatis ea, impedit obcaecati iusto quas, cum debitis enim architecto, eum autem alias hic repellendus quidem. Earum.</p>
-<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus, minus praesentium laborum ratione eaque hic, vero aliquam eligendi culpa consectetur eveniet ex accusantium amet, atque maxime! Culpa eum doloribus quibusdam. Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci ducimus asperiores, placeat minus error inventore commodi architecto voluptates vel assumenda nostrum ullam aperiam qui consequatur voluptatum tenetur eaque aspernatur in!</p>
+<h1>Iguana knowledge  </h1>
+<h2>Random Info About Iguanas</h2>
+<p>Iguana is a genus of herbivorous lizards that are native to tropical areas of Mexico, Central America, South America, and the Caribbean.</p>
+<p>A genus of herbivorous lizards that are native to tropical areas of Mexico, Central America, South America, and the Caribbean.</p>
 </body>
 
 
@@ -36,21 +36,23 @@
 <h3>More Stuff</h3>
 
  
-</p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Optio non ullam repellendus sunt recusandae quisquam dolorum accusantium officiis, reiciendis facere libero, ipsam commodi amet sint sed quam. Veniam, reiciendis blanditiis!
+</p>Iguanas are some of the largest lizards found in the Americas, with their whiplike tail making up about half of that length. Like other reptiles, iguanas are cold-blooded, egg-laying animals with an excellent ability to adapt to their environment.
+
+Iguana species vary greatly in size, color, behavior, and their endangered status in native habitats. Some, like the green iguana, are quite common; others, like Fiji’s banded iguanas, are endangered. Iguanas native to San Diego County are the desert iguana and the chuckwalla.
 
 
 <hr>
 <h4>Random animals</h4>
 
-<ol>
-    <li><a href="https://en.wikipedia.org/wiki/Goldendoodle" target="_blank">Goldendoodle</a></li>
-<li>Cat</li>
-<li>Hamster</li>
+</ol>
+    <li><a href=https://www.inaturalist.org/taxa/35342-Iguana-iguana target="_blank">Iguana</a></li>
+<li>Chuckwalla</li>
+<li>Desert Iguana</li>
     </ul>
 </body>
 <hr>
-<img src="doggy.webp" alt="Goldendoodle">
-<a href="https://www.crockettdoodles.com/goldendoodle/" target="_blank">GDA</a>
+<img src="iguana.web.jpg" alt="Goldendoodle">
+<a href="https://www.backwaterreptiles.com/iguanas-for-sale.html" target="_blank">Shop iguanas</a>
 </body>
 
 </html>
